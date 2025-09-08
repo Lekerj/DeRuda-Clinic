@@ -1,0 +1,8 @@
+1|1|1|08-09-2025|09:00|00:30|Checked In|Room A1||Annual checkup|Bring previous results|07-09-2025 10:30:14|01-09-2025 09:15:00
+2|2|2|08-09-2025|10:15|00:45|Scheduled|Room P2|17-09-2025|Dermatology follow-up|Take photos|05-09-2025 14:05:00|01-09-2025 11:20:00
+3|3|3|06-09-2025|14:00|01:00|Completed|Derm Clinic||Skin evaluation|Biopsy performed|06-09-2025 15:33:25|03-09-2025 13:30:00
+4|1|2|05-09-2025|11:30|00:30|Completed|Room P1||Cold symptoms|Rescheduled|05-09-2025 12:33:03|02-09-2025 09:45:00
+5|4|1|09-09-2025|08:45|00:20|Scheduled|Room C3||Blood pressure check|Home monitoring|06-09-2025 11:05:00|02-09-2025 14:20:00
+6|2|1|05-09-2025|15:00|00:30|Completed|Room C2||Chest pain|ECG planned|05-09-2025 16:43:56|01-09-2025 10:30:00
+7|3|1|12-09-2025|13:30|00:30|Scheduled|Room 63||Cardiac inflammation|Call for follow-up|06-09-2025 09:28:44|03-09-2025 14:15:00
+8|1|1|07-09-2025|14:30|00:30|Checked In|Room B2||Urgent consultation|High blood pressure|07-09-2025 14:16:24|07-09-2025 13:45:00
