@@ -142,9 +142,6 @@ This project was developed to practice applying Java programming concepts in a r
 
 The focus was on writing clean, well-organized code that demonstrates good software design principles while solving practical problems in a healthcare setting.
 
----
-
 Created to demonstrate software design principles and Java programming techniques in a medical clinic domain.
-
 ---
 Developed by Ahmed Gara Ali
