@@ -145,3 +145,6 @@ The focus was on writing clean, well-organized code that demonstrates good softw
 ---
 
 Created to demonstrate software design principles and Java programming techniques in a medical clinic domain.
+
+---
+Developed by Ahmed Gara Ali
