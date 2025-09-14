@@ -1,5 +1,8 @@
 # DeRuda Clinic Management System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Java](https://img.shields.io/badge/Java-17%2B-orange)](https://www.oracle.com/java/)
+
 A Java-based clinic management application that handles patient records, doctor information, appointments, and check-ins. Built as a practical exercise to apply Java programming concepts in a real-world scenario.
 
 ## Project Overview
